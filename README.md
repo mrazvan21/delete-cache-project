@@ -1,6 +1,8 @@
-- helper pentru a sterge tot cache-ul din proiect
+delete cache 
 
-1. se adauga in splendia/web
-2. se ruleaza chmod u+x removecache.sh
-3. se ruleaza cu "./removecache.sh"
+<b>./removecache.sh</b>
+
+1. add in spelndia/web
+2. "chmod u+x removecache.sh"
+3. "./removecache.sh"
 
